@@ -33,7 +33,8 @@ namespace Ejercicio3
             boxDenominacion.Clear();
             //Cargamos la lista 
             GridArticulos.DataSource = ListaArticulos;
-            GridArticulos.Columns[1].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+            GridArticulos.Columns[0].Visible = false;
+            GridArticulos.Columns[2].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
 
         }
         //Botones

@@ -11,3 +11,4 @@ C:\Users\Rohan\Documents\Analisis de Sistemas\TP3\Ejercicio_3\TP3_Ejercicio_3\Ej
 C:\Users\Rohan\Documents\Analisis de Sistemas\TP3\Ejercicio_3\TP3_Ejercicio_3\Ejercicio3\obj\Debug\Ejercicio3.VentanaNuevoCliente.resources
 C:\Users\Rohan\Documents\Analisis de Sistemas\TP3\Ejercicio_3\TP3_Ejercicio_3\Ejercicio3\obj\Debug\Ejercicio3.VentanaPrincipal.resources
 C:\Users\Rohan\Documents\Analisis de Sistemas\TP3\Ejercicio_3\TP3_Ejercicio_3\Ejercicio3\obj\Debug\Ejercicio3.VentanaNuevoArticulo.resources
+C:\Users\Rohan\Documents\Analisis de Sistemas\TP3\Ejercicio_3\TP3_Ejercicio_3\Ejercicio3\obj\Debug\Ejercicio3.VentanaAgregarArticulo.resources

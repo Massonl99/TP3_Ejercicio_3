@@ -12,7 +12,8 @@ namespace Ejercicio3
         private string denominacion;
         private float precio;
 
-        public int Codigo { get { return codigo; } set { codigo = value; }}
+        public int Codigo { get { return codigo; } set { codigo = value; } }
+        public string CODIGO{ get { return codigo.ToString("00000"); }}
         public string Denominacion { get { return denominacion; } set {  denominacion = value; }}
         public float Precio{get { return precio; }set { precio = value; }}
     }

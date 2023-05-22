@@ -87,6 +87,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="VentanaAgregarArticulo.resx">
+      <DependentUpon>VentanaAgregarArticulo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="VentanaNuevoArticulo.resx">
       <DependentUpon>VentanaNuevoArticulo.cs</DependentUpon>
     </EmbeddedResource>

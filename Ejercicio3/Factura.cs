@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,10 +13,19 @@ namespace Ejercicio3
         private int numero;
         private Cliente cliente;
 
-        //lineas
-        private List<Articulo> articulos = new List<Articulo>();
-        private List<int> cantidadArticulos = new List<int>();
+        //----------------------lineas---------------------------------------
+        public List<Articulo> articulos = new List<Articulo>();
+        public List<int> cantidadArticulos = new List<int>();
+        //-------------------------------------------------------------------
 
-
+        public int Numero {
+            get { return numero; }
+            set { numero = value; }
+        }
+        public Cliente Cliente
+        {
+            get { return cliente; }
+            set { cliente = value; }
+        }
     }
 }
