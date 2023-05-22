@@ -176,7 +176,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(223, 33);
             this.label4.TabIndex = 45;
-            this.label4.Text = "TIENDA UNCAOS";
+            this.label4.Text = "TIENDA UNCAUS";
             // 
             // VentanaPrincipal
             // 
